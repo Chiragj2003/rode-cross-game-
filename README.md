@@ -4,7 +4,7 @@
 Turtle Crosser is a simple Python game built using the Turtle graphics library. The player controls a turtle character that must safely cross a busy road filled with moving cars. The objective is to reach the other side of the road without colliding with any cars.
 
 ## Features
-1. **Player Control:** The player can control the turtle character using the "Up" arrow key to move upwards.
+1. **Player Control:** The player can control the turtle character using the "Up" arrow key to move upwards and "Down" arrow key to go downwards .
 2. **Car Generation:** Cars are generated at the starting line and move horizontally across the screen at varying speeds.
 3. **Collision Detection:** The game detects collisions between the player's turtle character and the moving cars. If a collision occurs, the game ends.
 4. **Level Progression:** As the player successfully crosses the road, the game becomes progressively more challenging with increased car speed and density.
